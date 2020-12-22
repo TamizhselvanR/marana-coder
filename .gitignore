@@ -1,2 +1,5 @@
 *.json
 *.exe
+audio/
+video/
+images/
